@@ -1,0 +1,5 @@
+# Created at 2025-07-28T20:26:38.135
+Boot Manifest-JAR contains absolute paths in classpath 'D:\auth-service-local-repo\autho-service\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
