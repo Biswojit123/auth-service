@@ -14,7 +14,7 @@ import org.springframework.web.client.RestTemplate;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-import com.biswojit.autho.autho.autho.JwtAuthFilter;
+import com.biswojit.autho.autho.config.JwtAuthFilter;
 
 import static org.springframework.security.config.Customizer.withDefaults;
 

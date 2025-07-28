@@ -5,7 +5,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import com.biswojit.autho.autho.autho.JwtUtil;
+import com.biswojit.autho.autho.config.JwtUtil;
 import com.biswojit.autho.autho.dto.AuthResponse;
 import com.biswojit.autho.autho.dto.EmailRequest;
 import com.biswojit.autho.autho.dto.LoginRequest;

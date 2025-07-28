@@ -1,6 +1,6 @@
-D:\auth-service-local-repo\autho-service\src\main\java\com\biswojit\autho\autho\autho\JwtAuthFilter.java
-D:\auth-service-local-repo\autho-service\src\main\java\com\biswojit\autho\autho\autho\JwtUtil.java
 D:\auth-service-local-repo\autho-service\src\main\java\com\biswojit\autho\autho\AuthoServiceApplication.java
+D:\auth-service-local-repo\autho-service\src\main\java\com\biswojit\autho\autho\config\JwtAuthFilter.java
+D:\auth-service-local-repo\autho-service\src\main\java\com\biswojit\autho\autho\config\JwtUtil.java
 D:\auth-service-local-repo\autho-service\src\main\java\com\biswojit\autho\autho\controller\AuthController.java
 D:\auth-service-local-repo\autho-service\src\main\java\com\biswojit\autho\autho\dto\AuthResponse.java
 D:\auth-service-local-repo\autho-service\src\main\java\com\biswojit\autho\autho\dto\EmailRequest.java
